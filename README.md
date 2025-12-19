@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Aliaa Saad
-
 🎓 CS Undergraduate @ Egyptian Chinese University
 💻 Problem Solving | Flutter |  Minoring in AI
 📍 Cairo, Egypt
-
 ___
 ## 💼 About Me
 
@@ -13,12 +11,14 @@ I'm currently exploring **web development**,**Visualization**, **mobile app deve
 ___
 ## 🔧 Technical Skills
 
-| Category     | Tools & Technologies |
-|*Languages*   | Python, C++, SQL, Dart |
-|*Tools*       |Flutter (Android, Visual Studio,visual studio code, PyCharm, GitHub, SQL Server |
-|*Networking*  |Cisco Packet Tracer, Basic Routing & Security|
-|*Concepts*    |OOP, Data Structures & Algorithms, Problem Solving ,Data Visualization (Python),Machine Learning Basics, AI Concepts,, Graphics Programming|
-|*Other Tools* |Jira, Basic Excel & PowerPoint|
+| Category       | Tools & Technologies |
+|----------------|-------------------|
+| **Languages**  | Python, C++, SQL, Dart |
+| **Tools**      | Flutter (Android), Visual Studio, Visual Studio Code, PyCharm, GitHub, SQL Server |
+| **Networking** | Cisco Packet Tracer, Basic Routing & Security |
+| **Concepts**   | OOP, Data Structures & Algorithms, Problem Solving, Data Visualization (Python), Machine Learning Basics, AI Concepts, Graphics Programming |
+| **Other Tools**| Jira, Basic Excel & PowerPoint |
+
 ___
 ## 🚀 Projects
 
