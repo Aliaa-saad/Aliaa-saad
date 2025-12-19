@@ -42,30 +42,15 @@ Designed and simulated a secure, multi-branch network topology using Cisco Packe
 📅 Feb 2025 – May 2025 
 Developed a 3D room environment including furniture (bed, wardrobe, cupboard), lighting, and decorative objects using OpenGL in C++. Implemented transformations, lighting, and material properties for realistic rendering.
 
-### 🌐 ARVIX Car Rental Website
+### 🌐 ARVIX Car Rental Website – Visual Studio Code / SQL Server / Node.js
+
 📅 Nov 2025 – Sep 2025
-Developed the frontend of a car rental website using HTML as part of a full-stack project. Backend implemented with SQL Server; frontend using Visual Studio Code.
-**Key Contributions:**
-Built responsive frontend with HTML,CSS,Javascript integrating with backend database Nodejs .
-Managed project using Jira (task assignment, progress tracking).
-**Designed UML diagrams:**
-Class Diagram
-Sequence Diagram
-Activity Diagram
-Collaborated with team members for system design and implementation.
-Technologies & Tools: HTML, CSS, SQL Server, Visual Studio Code, Jira, UML,Nodejs
-### 🤖 Student Performance Analysis – Machine Learning 
-📅 Nov 2025 - Sep 2025
-Collaborated in a team to analyze student performance data. Focused on **Exploratory Data Analysis (EDA), insights generation, and reporting**.  
-**Technologies & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, StandardScaler, LabelEncoder, ydata  
-**Key Contributions:**
-- Conducted data cleaning, missing value handling, outlier detection and removal (IQR & Z-score).  
-- Encoded categorical data and scaled numerical features.  
-- Built and evaluated multiple ML models: KNN, Decision Tree, Random Forest, Gradient Boosting, Logistic Regression.  
-- Generated **automatic EDA summary, insights, and key findings** reports using ydata.  
-- Visualized feature importance, correlations, distributions, and target balance.  
-- Performed **Insights & Reporting**, summarizing actionable findings for stakeholders.
-  
+Developed a responsive car rental website frontend with HTML, CSS, and JavaScript integrated with SQL Server backend via Node.js. Designed UML diagrams (Class, Sequence, Activity) and managed tasks using Jira.
+
+### 🤖 Student Performance Analysis – Machine Learning
+
+📅 Nov 2025 – Dec 2025
+Collaborated in a team to analyze student performance data. Conducted EDA, insights generation, and reporting using Python and relevant libraries. Built and evaluated ML models (KNN, Decision Tree, Random Forest, Gradient Boosting, Logistic Regression), visualized feature importance, distributions, correlations, and generated automatic EDA & key findings reports using ydata.
  ___
  ## 📜Certifications
 - 🧠 Problem Solving Training with C++ – Coach Academy (2025)
@@ -96,5 +81,5 @@ ___
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:aliaasaad459@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
-</a>
+</a><br>
 🌟 Glad you visited!Always open to learning, collaborating, and building meaningful tech projects 💡
