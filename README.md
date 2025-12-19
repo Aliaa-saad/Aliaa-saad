@@ -42,10 +42,28 @@ Designed and simulated a secure, multi-branch network topology using Cisco Packe
 📅 Feb 2025 – May 2025 
 Developed a 3D room environment including furniture (bed, wardrobe, cupboard), lighting, and decorative objects using OpenGL in C++. Implemented transformations, lighting, and material properties for realistic rendering.
 
-### 🌐 ARVIX Car Rental Website 
+### 🌐 ARVIX Car Rental Website
 
-📅 Nov 2025 - Sep 2025
+📅 Nov 2025 – Sep 2025
 Developed the frontend of a car rental website using HTML as part of a full-stack project. Backend implemented with SQL Server; frontend using Visual Studio Code.
+
+Key Contributions:
+
+Built responsive frontend with HTML, integrating with backend database.
+
+Managed project using Jira (task assignment, progress tracking).
+
+Designed UML diagrams:
+
+Class Diagram
+
+Sequence Diagram
+
+Activity Diagram
+
+Collaborated with team members for system design and implementation.
+
+Technologies & Tools: HTML, CSS, SQL Server, Visual Studio Code, Jira, UML
 
 ### 🤖 Student Performance Analysis – Machine Learning 
 
