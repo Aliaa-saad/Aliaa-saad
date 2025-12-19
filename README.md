@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aliaa Saad
-🎓 CS Undergraduate @ Egyptian Chinese University
-💻 Problem Solving | Flutter |  Minoring in AI
+🎓 CS Undergraduate @ Egyptian Chinese University<br>
+💻 Problem Solving | Flutter |  Minoring in AI<br>
 📍 Cairo, Egypt
 ___
 ## 💼 About Me
@@ -81,7 +81,13 @@ Collaborated in a team to analyze student performance data. Focused on **Explora
 ___
 ## ✨ Connect With Me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/aliaa-saad-17400331b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/Aliaa-saad)
-[![Email](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:aliaasaad459@gmail.com)
+<a href="https://www.linkedin.com/in/aliaa-saad-17400331b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>
+</a>  <br>
+<a href="https://github.com/Aliaa-saad">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"/>
+</a>  <br>
+<a href="mailto:aliaasaad459@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
+</a>
 🌟 Glad you visited!Always open to learning, collaborating, and building meaningful tech projects 💡
