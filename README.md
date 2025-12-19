@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aliaa Saad
 🎓 CS Undergraduate @ Egyptian Chinese University<br>
 💻 Problem Solving | Flutter |  Minoring in AI<br>
-**AI-focused CS student with hands-on projects in data analysis, ML, and supporting full-stack development.**
+**AI-focused CS student with hands-on projects in data analysis, ML, and supporting full-stack development.**<br>
 📍 Cairo, Egypt
 ___
 ## 💼 About Me
